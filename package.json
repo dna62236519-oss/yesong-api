@@ -1,0 +1,7 @@
+{
+  "name": "yesong-timetable-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "comcigan-parser-edited": "latest"
+  }
+}
